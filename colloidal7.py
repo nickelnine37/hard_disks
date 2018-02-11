@@ -1087,7 +1087,7 @@ if __name__ == '__main__':
 
     # first_run = True
     # accepted = 0
-    # rejected = 0
+    rejected = 0
     # X = np.load('X00.npy')
     #
     # r = 0.02
